@@ -1,0 +1,108 @@
+§ Intro
+1 b3<g3<d3<g2 G-dur Du gamla du fria
+2 e3<c3<g2<c2 C-dur Marsch (Studentsången)
+4 a#3<f3<d3<a#2 Bb-dur Gaudeamus Igitur
+§ Till att börja med
+6 e3<a2 A-dur Här är chalmeristerna
+7 e3 A-dur Osquar
+8 c4<g3<e3<c3<c2 C-dur Skål-vrål
+10 g2 C-moll Skänklåt
+§ Till snapsen
+12 e3<c3<c3 C-dur Helan
+13 d#2 Ab-dur Halvan
+14 d#3 Eb-dur(Ab-dur) Tipp tapp-halvan
+16 d3 Bb-dur Tersen
+18 e3<c3<a2<a1 A-moll Livet är härligt
+20 f#3<f#2 H-moll Norges beste
+21 d3<b3<g3 G-dur Ren som en jomfru
+22 c2 C-dur Koskenkorva
+23 c4<g3<e3<c3 C-dur Än en gång däran
+24 g3<d3<a#2<g1 G-moll(G-dur) En sup till
+26 d3 D-dur Uppmuntran till fludium
+§ Till ölen
+28 d3<a2<f2<d2 D-moll Ölvisa
+30 e2 E-moll(E-dur) Skummande öl
+32 d2 G-moll I kungens sal
+37 g2<g1 G-moll Skräckskål
+40 d3<a2<f#2<d2 G-dur Kungsången
+§ Till vinet
+42 c3 C-dur Bort allt vad oro gör
+44 c2 C-dur,etc. Gubben Noach
+49 e3<e2 A-dur Das Königslied
+52 f3<a2<f2 F-dur Joachim uti Babylon
+54 c3<c2 F-dur Så lunka vi så småningom
+56 g3<g2 C-dur Lustwins wijsa
+58 a#3<g3<a#2 Eb-dur Klinga nu med klarinetter
+60 b3<b2 E-moll Down among the dead men
+62 b3<b2 E-moll En skål
+64 c4<a2<a2<e2 A-moll Vattenskål
+66 e3<b2<g2<e2 E-moll Tourdion
+§ Till kaffet
+68 c4<g3<e3<c3<c3 C-dur Svensk punschsång
+70 c3<c2 F-dur Punschen kommer
+71 c2<e3<g3<c4 C-dur Efter(l)åt
+72 d3<b2<d2<g1 G-dur Java jive
+§ Till Emilia
+74 c#3<g#2<f2<c#2 Db-dur Madrigal (Kom du ljuva)
+75 a2<a1 A-moll Kristallen den fina
+76 a2 D-moll Du finaste som är
+77 e3<c3<a2<a1 A-moll Serenad (Stjärnorna tindra)
+78 f#2<d2 D Månmadrigal
+79 d3<b2<g2<g1 C-moll Jag vet en dejlig rosa
+80 c3 F Gute Nacht
+§ Till Emil
+82 b3<g3<e3<b2 E-dur Man borde inte sova
+83 d3 D-moll En kärleksförklaring
+84 c4<a3<f3 F-dur Utan dig
+86 d3 D-moll Flickan under nymånen
+87 d3 A-moll Trygg hos dig
+88 c3 F-moll Där du går
+§ Till varandra
+90 g#3<d#3<c#3<f2<c#2 Db-dur,etc. En serenad för två
+§ Till sist
+94 b3<g3<d3<g2 G-dur Come again
+96 d2 G-dur Goodnight sweetheart
+98 d#3<d#2 Eb-dur Det var bättre förr
+§ Till och från
+50 g1 G-moll Island
+100 a#3<a#2 Eb-dur Århus tappenstreg
+104 f3<e3<d3<c3<a#2<g2 F-dur Bastufadäs
+106 c3<c2 F-dur Jupitervisan
+107 e3<b2<g#2<e2 H-dur,etc. Rövarsången
+108 c3 F-dur Shosholoza
+109 d3<d2 G-dur Négues a katié morin
+110 f3<f2 Bb-dur Ack, om jag vore kejsare
+113 d3<d2 G-dur En ung student
+§ Till glöggen
+114 g3<e3<c3<c2 C-dur Natten går tunga fjät
+115 b3 G-dur Så mörk är natten
+116 a3<f3<c3<f2 F-dur Jul, jul, strålande jul
+117 d3 G-dur Nu tändas tusen juleljus
+118 d4<d3<f2<a#1 Bb-dur När det lider mot jul
+120 g2 G-dur Staffansvisa
+123 g3 G-moll Sankt Staffans visa
+124 d#3<c3<g#2 Ab-dur Förunderligt och märkligt
+125 c4<c3<d#2<g#1 Ab-dur Stilla i mitt sinne
+126 d4<b3 G-dur Deck the Hall
+127 a3 F-dur Goder morgon i denna sal
+§ Till våren
+128 g3<d3<b2<g2 G-dur Längtan till landet
+130 g#3<c#3<f2<c#2 Db-dur Vårsång (Glad sås')
+132 d3 G-dur Majsång (Sköna maj)
+135 g#3<d#3<c3<g#2 Ab-dur Majsång (O, hur härligt majsol ler)
+136 b3<g3 G-dur Våhr-Wijsa
+138 g3<e3<c3<c2 C-dur Under rönn och syrén
+139 e3<e2 A-dur Sommarpsalm
+140 f3<c3<g#2<f2 F-moll Uti vår hage
+142 e3<e2 E-dur Sommarfärden
+§ Till de som betalar
+146 a#3<f3<d3<a#1 Bb-dur Smedsvisa
+147 c4<c3 É du vaken, Lars
+152 g#3<f3<c3<c2 F-moll,etc Vad har du i fickan, Jan?
+155 e3<c3<g2<c2 C-dur,etc Och jungfrun hon går i ringen
+158 f3<d#3<c3<a3 Bb-dur,etc Tjuv och tjuv
+161 a2 D-moll/C-dur Ack, Värmeland, du fria
+162 a#3<f#3<c#3<f#3 Gb-dur I Seraillets Have
+164 c4 C-dur Stolta stad
+165 f3 F-dur Fair Phyllis I saw
+168 f3<c3<a2<f2 F-dur Ja, må han leva!
